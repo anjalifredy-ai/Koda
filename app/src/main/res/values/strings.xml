@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Koda</string>
+    <string name="app_name">ViewTube</string>
 
     <!--
       Shared by the MediaStyle notification and the playback progress Live
