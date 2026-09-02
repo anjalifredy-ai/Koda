@@ -95,7 +95,7 @@ android {
             // widgets, media session and sign-in state during testing.
             applicationIdSuffix = ".debug"
             versionNameSuffix = "-debug"
-            manifestPlaceholders["appLabel"] = "Koda Debug"
+            manifestPlaceholders["appLabel"] = "ViewTube"
         }
         release {
             signingConfig = signingConfigs.getByName("release")
